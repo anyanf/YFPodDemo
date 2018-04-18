@@ -8,11 +8,15 @@
 
 #import "YFAppDelegate.h"
 
+#import "YFLog.h"
 
 @implementation YFAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    
+    [YFLog Log];
+    
     // Override point for customization after application launch.
     return YES;
 }
