@@ -1,0 +1,22 @@
+{
+  "name": "YFPodDemo",
+  "version": "0.1.0",
+  "summary": "A short description of YFPodDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/anyanf/YFPodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "anyanf": "ankang-ds@gomeplus.com"
+  },
+  "source": {
+    "git": "https://github.com/anyanf/YFPodDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YFPodDemo/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module YFPodDemo {
+  umbrella header "YFPodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
